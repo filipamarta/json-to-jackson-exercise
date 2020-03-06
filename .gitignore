@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/osx,java,linux,windows,intellij+all
-# Edit at https://www.gitignore.io/?templates=osx,java,linux,windows,intellij+all
+# Created by https://www.gitignore.io/api/osx,java,linux,maven,windows,intellij+all
+# Edit at https://www.gitignore.io/?templates=osx,java,linux,maven,windows,intellij+all
 
 ### Intellij+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
@@ -128,6 +128,19 @@ hs_err_pid*
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.flattened-pom.xml
+
 ### OSX ###
 # General
 .DS_Store
@@ -182,4 +195,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/osx,java,linux,windows,intellij+all
+# End of https://www.gitignore.io/api/osx,java,linux,maven,windows,intellij+all
