@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd66e60-4a74-49d4-b5b5-1c52bee702c5" name="Default Changelist" comment="" />
+    <list default="true" id="0bd66e60-4a74-49d4-b5b5-1c52bee702c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,12 +34,16 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1UZ1VaNR5WupcpwiKuAhLjJvpcA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -84,6 +94,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="396" y="111" key="#Main" timestamp="1580407821172">
       <screen x="0" y="23" width="1440" height="846" />
@@ -97,6 +110,10 @@
       <screen x="0" y="23" width="1440" height="846" />
     </state>
     <state x="569" y="342" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.846@0.23.1440.846" timestamp="1580406927326" />
+    <state x="408" y="189" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583482200806">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="408" y="189" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.846@0.23.1440.846" timestamp="1583482200806" />
     <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1580407929175">
       <screen x="0" y="23" width="1440" height="846" />
     </state>
@@ -113,5 +130,9 @@
       <screen x="0" y="23" width="1440" height="846" />
     </state>
     <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.846@0.23.1440.846" timestamp="1580407929174" />
+    <state x="397" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1583482826778">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="397" y="278" key="com.intellij.ide.util.TipDialog/0.23.1440.846@0.23.1440.846" timestamp="1583482826778" />
   </component>
 </project>
